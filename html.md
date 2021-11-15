@@ -25,3 +25,6 @@ A MDN é um site da Mozilla, famosa pelo navegador Firefox, que também tem exce
 
 No site da Wikipédia você pode aprender mais sobre a história dessa linguagem de marcação.
 - [HTML - Wikipédia](https://pt.wikipedia.org/wiki/HTML)
+
+O "Dicionário do Programador" é um quadro do canal do Youtube Código Fonte TV e a ideia é desmistificar para iniciantes o que é cada tecnologia
+- [HTML // Dicionário do Programador](https://www.youtube.com/watch?v=4dQtz1PpY9A&ab_channel=C%C3%B3digoFonteTV)
