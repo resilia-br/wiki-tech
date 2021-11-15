@@ -16,5 +16,6 @@ Além disso, existe a precedência de estilo, que é definida por três fatores,
 ## Onde posso aprender mais sobre?
 - [[Artigo] **O que é CSS? Guia Básico para Iniciantes**](https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css)
 - [[Artigo] **Entendendo a precedência de estilo em CSS: Especificidade, Herança e Efeito Cascata**](https://medium.com/emanuelg-blog/entendendo-a-preced%C3%AAncia-de-estilo-em-css-especificidade-heran%C3%A7a-e-efeito-cascata-a437c4929173)
+- [[Tutorial] **CSS Tutorial**](https://www.w3schools.com/css/)
 - [[Vídeo] **CSS (Cascading Style Sheets) // Dicionário do Programador** ](https://www.youtube.com/watch?v=229xfk3EEM8)
 - [[Vídeo] **O QUE É CSS? (SELETORES, PROPRIEDADES E VALORES)**](https://www.youtube.com/watch?v=LWU2OR19ZG4&ab_channel=RafaellaBallerini)
