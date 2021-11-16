@@ -24,9 +24,9 @@ Os Links ou Hiperlinks, como falamos anteriormente, permitem aos usuários segui
 Quando o navegador visita um servidor para obtenção de dados, o endereço web é responśavel por informar ao navegador onde procurar cada item descrito no código HTML, que então indica ao navegador onde posicionar na página web.
 
 ## Onde posso aprender mais sobre?
-- [[Artigo] **O que é um navegador?**](what-is-a-browser)
-- [[Artigo] **Navegador Web**](navegador-web-wikipedia)
-- [[Vídeo] **Como funcionam os navegadores Web?**](como-funcionam-os-navegadores)
-- [[Artigo] **Guerra dos Navegadores**](guerra-dos-navegadores-wikipedia)
-- [[Vídeo] **A história da guerra dos navegadores** ](guerra-dos-navegadores-historia)
-- [[Vídeo] **A nova guerra dos navegadores**](nova-guerra-dos-navegadores)
+- [[Artigo] **O que é um navegador?**][what-is-a-browser]
+- [[Artigo] **Navegador Web**][navegador-web-wikipedia]
+- [[Vídeo] **Como funcionam os navegadores Web?**][como-funcionam-os-navegadores]
+- [[Artigo] **Guerra dos Navegadores**][guerra-dos-navegadores-wikipedia]
+- [[Vídeo] **A história da guerra dos navegadores** ][guerra-dos-navegadores-historia]
+- [[Vídeo] **A nova guerra dos navegadores**][nova-guerra-dos-navegadores]
