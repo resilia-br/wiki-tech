@@ -2,7 +2,7 @@
 <!-- FIM DAS VARIAVEIS -->
 
 <p align="center">
-    <img src="./assets/images/logo.png" alt="Logo da Resilia">
+    <img src="./assets/images/resilia_logo.png" alt="Logo da Resilia">
 </p>
 
 # O que é flexbox?
