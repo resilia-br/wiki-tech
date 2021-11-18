@@ -1,3 +1,10 @@
+<!-- VARIAVEIS -->
+[html-mdn]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
+[html-w3schools]: https://www.w3schools.com/html/
+[html-wikipedia]: https://pt.wikipedia.org/wiki/HTML
+[html-dicionario-yt]: https://www.youtube.com/watch?v=4dQtz1PpY9A&ab_channel=C%C3%B3digoFonteTV
+<!-- FIM DAS VARIAVEIS -->
+
 <p align="center">
     <img src="./assets/images/logo.png" alt="Logo da Resilia">
 </p>
@@ -18,13 +25,13 @@ Quando falamos hipertexto, estamos falando de um texto ao qual se atribuem outro
 Aqui na Resilia buscamos sempre instigar nossos alunos a procurar por documentação e entender melhor do que passamos em sala de aula, aqui vai algumas recomendações de leitura para se entender melhor qual o papel do HTML e o melhor, como se usa na prática!
 
 W3Schools é o maior site de desenvolvimento web na internet, criam experiências de aprendizado simplificadas e interativas e são uma proposta do próprio grupo W3C, ou seja, eles têm propriedade quando o assunto é HTML.
-- [HTML Tutorial](https://www.w3schools.com/html/)
+- [HTML Tutorial][html-w3schools]
 
 A MDN é um site da Mozilla, famosa pelo navegador Firefox, que também tem excelente documentação sobre várias tecnologias e vale a pena dar uma olhada no tutorial deles sobre HTML.
-- [HTML: Linguagem de Marcação de Hipertexto - Tutoriais para iniciantes](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [HTML: Linguagem de Marcação de Hipertexto - Tutoriais para iniciantes][html-mdn]
 
 No site da Wikipédia você pode aprender mais sobre a história dessa linguagem de marcação.
-- [HTML - Wikipédia](https://pt.wikipedia.org/wiki/HTML)
+- [HTML - Wikipédia][html-wikipedia]
 
 O "Dicionário do Programador" é um quadro do canal do Youtube Código Fonte TV e a ideia é desmistificar para iniciantes o que é cada tecnologia
-- [HTML // Dicionário do Programador](https://www.youtube.com/watch?v=4dQtz1PpY9A&ab_channel=C%C3%B3digoFonteTV)
+- [HTML // Dicionário do Programador][html-dicionario-yt]
