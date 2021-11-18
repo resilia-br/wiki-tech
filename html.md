@@ -24,7 +24,7 @@ Quando falamos hipertexto, estamos falando de um texto ao qual se atribuem outro
 ## Onde posso aprender mais sobre?
 Aqui na Resilia buscamos sempre instigar nossos alunos a procurar por documentação e entender melhor do que passamos em sala de aula, aqui vai algumas recomendações de leitura para se entender melhor qual o papel do HTML e o melhor, como se usa na prática!
 
-W3Schools é o maior site de desenvolvimento web na internet, criam experiências de aprendizado simplificadas e interativas e são uma proposta do próprio grupo W3C, ou seja, eles têm propriedade quando o assunto é HTML.
+W3Schools é o maior site de desenvolvimento web na internet, criam experiências de aprendizado simplificadas e interativas.
 - [HTML Tutorial][html-w3schools]
 
 A MDN é um site da Mozilla, famosa pelo navegador Firefox, que também tem excelente documentação sobre várias tecnologias e vale a pena dar uma olhada no tutorial deles sobre HTML.
