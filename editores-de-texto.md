@@ -2,6 +2,12 @@
 [what-is-ide]: https://www.redhat.com/pt-br/topics/middleware/what-is-ide
 [editores-stackoverflow]: https://pt.stackoverflow.com/questions/276003/quais-s%C3%A3o-as-diferen%C3%A7as-entre-um-editor-de-c%C3%B3digo-editor-de-texto-e-um-ide
 [ide-dicionario-youtube]: https://www.youtube.com/watch?v=GPcIjsz-2cA&ab_channel=C%C3%B3digoFonteTV
+[vs-code-website]: https://code.visualstudio.com/
+[sublime-text-website]: https://www.sublimetext.com/
+[atom-website]: https://atom.io/
+[vim-website]: https://www.vim.org/
+[notepad-website]: https://notepad-plus-plus.org/
+[brackets-website]: https://brackets.io/
 <!-- FIM DAS VARIAVEIS -->
 
 <p align="center">
@@ -18,12 +24,12 @@ O editor de código é um editor de texto especializado, ou seja, tem recursos q
 O IDE (Integrated Development Enviroment, _do inglês_) ou Ambiente de Desenvolvimento Integrado também é um editor de texto especializado, mas ele reúne características e ferramentas de apoio ao desenvolvimento de software com objeto de tornar esse processo ainda mais ágil. Além do que vimos nos editores de código, aqui temos ferramentas como _debugger_, terminal integrado, explorador de arquivos, ferramentas de análise, inteligências integradas para sugestão de código. Aqui o sistema de plugin costuma ser mais abrangente.
 
 #### Lista de editores de texto:
-- Visual Studio Code - o mais recomendado pela Resilia
-- Sublime Text
-- Atom
-- Vim
-- Notepad++
-- Brackets
+- [Visual Studio Code][vs-code-website] - o mais recomendado pela Resilia
+- [Sublime Text][sublime-text-website]
+- [Atom][atom-website]
+- [Vim][vim-website]
+- [Notepad++][notepad-website]
+- [Brackets][brackets-website]
 
 ## Onde posso aprender mais sobre?
 - [[Artigo] **O que é um IDE?**][what-is-ide]
