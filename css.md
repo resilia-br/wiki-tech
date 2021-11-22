@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/images/logo.png" alt="Logo da Resilia">
+    <img src="./assets/images/resilia_logo.png" alt="Logo da Resilia" width="200px">
 </p>
 
 # O que é CSS? 
