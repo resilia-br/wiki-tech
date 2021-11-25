@@ -1,0 +1,31 @@
+<!-- VARIAVEIS -->
+[google]: https://google.com/
+[medium]: https://medium.com/
+<!-- FIM DAS VARIAVEIS -->
+
+<p align="center">
+    <img src="./assets/images/resilia_logo.png" alt="Logo da Resilia" width="200px">
+</p>
+
+# Título do documento
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel vehicula ligula. Cras nec congue mauris. Aliquam a odio elit. Suspendisse potenti. Quisque condimentum nisi ipsum, sit amet interdum purus euismod eu. Aliquam luctus elementum enim id tincidunt. Nullam aliquet ligula metus, eu elementum tortor tincidunt nec. Nullam ac risus euismod, maximus risus id, eleifend metus. Nunc posuere bibendum urna et varius. Ut ut urna in tellus vehicula porttitor. Suspendisse interdum sagittis velit, quis feugiat lacus aliquet eu. Quisque congue ipsum nec sem gravida, eget viverra ante lobortis.
+
+## Subtítulo
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel vehicula ligula.
+```javascript
+const exemplo = 'Este é um exemplo de código JavaScript em um documento Markdown'
+// é sempre importante usar especificar a linguagem que está exibindo quando incorporar um código no documento
+```
+Cras nec congue mauris. Aliquam a odio elit. Suspendisse potenti. Quisque condimentum nisi ipsum, sit amet interdum purus euismod eu. Aliquam luctus elementum enim id tincidunt. Nullam aliquet ligula metus, eu elementum tortor tincidunt nec. Nullam ac risus euismod, maximus risus id, eleifend metus. Nunc posuere bibendum urna et varius. Ut ut urna in tellus vehicula porttitor. Suspendisse interdum sagittis velit, quis feugiat lacus aliquet eu. Quisque congue ipsum nec sem gravida, eget viverra ante lobortis.
+
+```css
+/* exemplo de código CSS em um documento Markdown */
+body {
+    background: #bea2e8;
+}
+```
+
+## Onde posso aprender mais sobre?
+<!--- Aqui são utilizadas as variáveis declaradas no início do documento -->
+- [[Website] **Google**][google]
+- [[Website] **Medium**][medium]
