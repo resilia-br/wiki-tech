@@ -25,15 +25,6 @@ function saudacao(nome) {
 
 O uso da palavra reservada `return` evidencia o retorno da função. A linha após o uso do `return` não é mais executada, quando dentro daquele escopo. Caso queira escrever um retorno em múltiplas linhas será necessário envolver o retorno em parênteses.
 
-```javascript
-return (
-    <div>
-        <h1>Exemplo de retorno de múltiplas linhas</h1>
-    <div>
-)
-```
-Esse retorno é muito comumente encontrado em componentes do React (biblioteca Javascript).
-
 A função `saudacao` tem um parâmetro declarado chamado `nome` que é usado posteriormente como argumento para retornar uma `string` com uma saudação para o nome passado como argumento.
 
 ## Mas afinal, qual a diferença entre parâmetro e argumento?
