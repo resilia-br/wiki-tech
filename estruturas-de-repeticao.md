@@ -73,4 +73,31 @@ Para essa situação vamos usar o laço de repetição `for`
 - Novamente usamos o operador de incremento ++ e o laço está executando de um em um elemento do array.
 - A cada vez que as intruções são executadas, validamos se é do tipo `string` e, se for, adicionamos no array `apenasNomes`, já que os nomes estão escritos como *strings*. Note que se não for do tipo, nada é feito.
 
+## do...while
+A instrução da estrutura `do...while` também se repetirá até que a condição seja falsa. Sua sintaxe é bem diferente do laço `for` e, em português, basicamente quer dizer que irá executar instrução enquanto a condição continue verdadeira, sua tradução literal é *faça...enquanto*.
+
+#### Sintaxe
+```javascript
+do {
+    // instruções aqui
+} while (condicao)
+```
+
+Vamos fazer o mesmo exemplo (1° exemplo) do loop `for`, mas dessa vez usando a sintaxe do `do...while`
+```javascript
+let i = 0
+do {
+    i += 1
+    console.log(`Número ${i}`)
+} while (i < 5)
+/* retorna:
+Número 1
+Número 2
+Número 3
+Número 4
+Número 5
+*/
+```
+O retorno desse exemplo continua sendo o mesmo. Perceba que a variável `i` teve que ser inicializada fora do escopo da estrutura `do...while` para que pudéssemos acessar dentro do bloco do `do`. Também é possível perceber o uso do operador de atribuição +=, ele é um jeito encurtado de dizermos que um operando (à esquerda, que pode ser uma variável) é igual a ele mesmo mais (+) o que está à direita. Nesse caso é o mesmo que declararmos `i = i + 1`.
+
 ## Onde posso aprender mais sobre?
