@@ -28,7 +28,7 @@ Aqui no Brasil, a BNCC (Base Nacional Comum Curricular) já inclui cultura digit
 Vale ressaltar que essas estratégias não precisam estar diretamente ligadas ao uso de computadores, muito menos à programação ou até mesmo navegação na internet.
 
 ## Os 4 pilares do pensamento computacional
-Segundo Jeanette Wing, vice-presidente da Microsft Research, o pensamento computacional é a base para a identificação de problemas e soluções que podem ser feitas tanto por processadores computacionais, quanto por humanos.
+Segundo Jeanette Wing, vice-presidente da Microsoft Research, o pensamento computacional é a base para a identificação de problemas e soluções que podem ser feitas tanto por processadores computacionais, quanto por humanos.
 
 Poderíamos separar o pensamento computacional em quatro pilares:
 
