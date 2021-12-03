@@ -30,8 +30,8 @@ for (expressaoInicial; condicao; incremento) {
 ```
 
 - A `expressaoInicial` é inicializada e, caso possível, executada. É comum inicializarmos um ou mais contadores nessa expressão, podendo, inclusive, conter a declaração de variáveis.
-- Toda vez que o laço é executado a expressão `condicao` é avaliada e, caso seu reesultado seja verdadeiro, o laço é executado, se for falso sua execução é interrompida e, assim, terminará. Se `condicao` for omitida, é sempre assumida como verdadeira
-- Depois as intruções são executadas
+- Toda vez que o laço é executado a expressão `condicao` é avaliada e, caso seu resultado seja verdadeiro, o laço é executado, se for falso sua execução é interrompida e, assim, terminará. Se `condicao` for omitida, é sempre assumida como verdadeira
+- Depois as instruções são executadas
 - E por último há a atualização da expressão `incremento`, que é executada. Essa atualização do incremento é o que define como o laço irá se repetir, por exemplo, de um em um, de dois em dois, etc.
 
 Vamos para um exemplo:
@@ -79,7 +79,7 @@ Para essa situação vamos usar o laço de repetição `for`
 - Também é importante ressaltar que a declaração da variável com o nome `i` é muito comum e quase uma convenção entre os programadores.
 - Logo depois, a expressão passada como condição é uma tática para que não precisemos colocar o tamanho real do array, a propriedade `length` retorna o número de elemento de um array, por isso definimos como apenas **menor que** `<` e não **menor ou igual**, pois length começa sua contagem em 1, se houver elemento existente no array. Imagine que o array tem 5 elementos, length retornará 5, mas o último elemento está no índice 4.
 - Novamente usamos o operador de incremento ++ e o laço está executando de um em um elemento do array.
-- A cada vez que as intruções são executadas, validamos se é do tipo `string` e, se for, adicionamos no array `apenasNomes`, já que os nomes estão escritos como *strings*. Note que se não for do tipo, nada é feito.
+- A cada vez que as instruções são executadas, validamos se é do tipo `string` e, se for, adicionamos no array `apenasNomes`, já que os nomes estão escritos como *strings*. Note que se não for do tipo, nada é feito.
 
 ## do...while
 A instrução da estrutura `do...while` também se repetirá até que a condição seja falsa. Sua sintaxe é bem diferente do laço `for` e, em português, basicamente quer dizer que irá executar instrução enquanto a condição continue verdadeira, sua tradução literal é *faça...enquanto*.
@@ -135,7 +135,7 @@ console.log(soma) // retorna 20
 
 Repare que houve a declaração de uma variável `soma`, que foi inicializada com 0 (zero), para termos disponível uma variável para armazenar nossa soma.
 
-Nas instruções o valor de `soma` é reatribuído toda vez que o laço é executado, sendo o valor atual da própria váriável mais o valor atual do elemento naquele índice do *array* de números. Ao final das instruções ocorre a iteração, responsável por fazer a atualização da expressão que vai ser avaliada na condição e continuar até não que não seja mais verdadeira.
+Nas instruções o valor de `soma` é reatribuído toda vez que o laço é executado, sendo o valor atual da própria variável mais o valor atual do elemento naquele índice do *array* de números. Ao final das instruções ocorre a iteração, responsável por fazer a atualização da expressão que vai ser avaliada na condição e continuar até não que não seja mais verdadeira.
 
 ##### O que acontece na prática?
 - Quando `i` vale 0 (zero) é possível acessar o primeiro elemento do array, logo faz-se a operação `soma = 0 + 1` e depois o valor de `i` é atualizado na iteração. O que provoca uma reavaliação da condição.
