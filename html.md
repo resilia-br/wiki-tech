@@ -10,13 +10,13 @@
 </p>
 
 # O que é HTML? 
-O HTML é a Linguagem de Marcação de Hipertexto (HyperText Markup Language, _do inglês_), é uma linguagem utilizada massivamente na construção e estruturação de paǵinas web. Criada em 1991, por Tim Berners-Lee no CERN (European Council for Nuclear Research).
+O HTML é a Linguagem de Marcação de Hipertexto (HyperText Markup Language, _do inglês_), é uma linguagem utilizada massivamente na construção e estruturação de páginas web. Criada em 1991, por Tim Berners-Lee no CERN (European Council for Nuclear Research).
 
 Nessa época, o HTML tinha o intuito de ser usado apenas para interligar instituições de pesquisa próximas, facilitando o compartilhamento de documentos. Ainda no início dos anos 90 essa era uma realidade da internet, seu uso era bem limitado, geralmente por instituições de ensino e pesquisa.
 
 Atualmente o HTML está em sua versão 5, lançado integralmente em outubro de 2014, oficializado pelo grupo W3C (World Wide Web Consortium), consórcio que recebe o mesmo nome da biblioteca de desenvolvimento WWW (World Wide Web), liberada em 1992, que forneceu alcance mundial, junto com o HTML, do que conhecemos hoje como WEB.
 
-O HTML usa a "marcação" para anotar o conteúdo, seja ele imagem, texto ou qualquer outro que possa ser exibido em um navegador da Web. Além disso, possui "elementos" especiais que estão relacionados com outros aspectos da estruturação de uma página web, como `<head>`, `<title>`, `<audio>`. A diversidade de elementos, conhecidos como _tags_ no HTML, permite não apenas a exibição de conteúdo, mas também a semântica, o dinasmismo, a integração, estilização e muito mais.
+O HTML usa a "marcação" para anotar o conteúdo, seja ele imagem, texto ou qualquer outro que possa ser exibido em um navegador da Web. Além disso, possui "elementos" especiais que estão relacionados com outros aspectos da estruturação de uma página web, como `<head>`, `<title>`, `<audio>`. A diversidade de elementos, conhecidos como _tags_ no HTML, permite não apenas a exibição de conteúdo, mas também a semântica, o dinamismo, a integração, estilização e muito mais.
 
 ## Mas afinal, o que é um hipertexto?
 Quando falamos hipertexto, estamos falando de um texto ao qual se atribuem outros conjuntos de informação, que podem estar na forma de blocos de textos, palavras, imagens ou sons, cujo acesso se dá através de referências específicas, que podemos chamar no meio digital de "hiperlinks" (ou "links"). Vale ressaltar que hipertexto não é um termo isolado da programação ou desenvolvimento web.
