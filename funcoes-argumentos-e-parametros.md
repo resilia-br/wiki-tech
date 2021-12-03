@@ -14,7 +14,7 @@
 # O que é uma função?
 As funções são blocos de construção fundamentais no JavaScript. A função pode ser entendida como uma funcionalidade, nada mais é que um procedimento, no qual você pode fazer diversas instruções para executar uma tarefa ou calcular.
 
-Para declarar um função você deve usar a palavra reservada **function**, seguida de seu nome, lista de parâmetros para a função (separados por vígulas e entre parênteses) e o par de chaves para definição do escopo.
+Para declarar um função você deve usar a palavra reservada **function**, seguida de seu nome, lista de parâmetros para a função (separados por vírgulas e entre parênteses) e o par de chaves para definição do escopo.
 
 #### Sintaxe
 ```javascript
