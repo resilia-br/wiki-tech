@@ -5,6 +5,7 @@
 [funcoes-programador-br-yt]: https://www.youtube.com/watch?v=zNimSYkrs6w&ab_channel=ProgramadorBR
 [higher-orders-functions-cod3r-yt]: https://www.youtube.com/watch?v=cGrTcnorZgs&ab_channel=Cod3rCursos
 [escopo-funcao-yt]: https://www.youtube.com/watch?v=FqkSOhIuDNU&ab_channel=RogerMelo
+[tres-perguntas-javascript-filipe-deschamps-yt]: https://www.youtube.com/watch?v=QVrrqgDhhu4&ab_channel=FilipeDeschamps
 <!-- FIM DAS VARIAVEIS -->
 
 <p align="center">
@@ -51,3 +52,4 @@ soma(5, 9)
 - [[Vídeo] **FUNÇÕES EM JAVASCRIPT**][funcoes-programador-br-yt]
 - [[Vídeo] **Programador JavaScript PRECISA DOMINAR essa TÉCNICA! (Higher Order Functions)**][higher-orders-functions-cod3r-yt]
 - [[Vídeo] **O que é escopo de função | JavaScript**][escopo-funcao-yt]
+- [[Vídeo] **Eu quero saber se você consegue responder essas 3 perguntas de JavaScript!**][tres-perguntas-javascript-filipe-deschamps-yt] *(Vídeo sobre variáveis, escopo, Hoisting e declaração de funções)*
