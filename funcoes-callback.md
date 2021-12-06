@@ -5,6 +5,7 @@
 [callback-codigo-fonte-tv-yt]: https://www.youtube.com/watch?v=zUtqTM6_-PM&ab_channel=C%C3%B3digoFonteTV
 [callback-em-formulario-allan-kildare]: https://codepen.io/allankildare/pen/gOGaqRV
 [callback-hell]: http://callbackhell.com/
+[javascript-callbacks-js-tutorial]: https://www.javascripttutorial.net/javascript-callback/
 <!-- FIM DAS VARIAVEIS -->
 
 <p align="center">
@@ -112,4 +113,4 @@ E aí, gostou do nosso conteúdo? Desfrute do nosso material selecionado!
 - [[Artigo] **Entendendo funções callback em JavaScript**][entendendo-callback-medium]
 - [[Vídeo] **Callback no JavaScript**][callback-js-marco-bruno-yt]
 - [[Website] **Callback Hell**][callback-hell]
-- [[Artigo - inglês] **JavaScript Callback**][escopo-funcao-yt]
+- [[Artigo - inglês] **JavaScript Callback**][javascript-callbacks-js-tutorial]
