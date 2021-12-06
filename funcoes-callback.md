@@ -106,7 +106,6 @@ Poderíamos usar uma função responsável por fazer uma requisição enviando o
 
 Você pode ver um exemplo de formulário um pouco mais complexo [neste Pen][callback-em-formulario-allan-kildare] do Allan Kildare, nosso Resiliente.
 
-E aí, gostou do nosso conteúdo? Desfrute do nosso material selecionado!
 ## Onde posso aprender mais sobre?
 - [[Artigo] **Callback - MDN**][callback-mdn]
 - [[Vídeo] **Callback // Dicionário do Programador**][callback-codigo-fonte-tv-yt]
