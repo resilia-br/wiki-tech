@@ -1,3 +1,14 @@
+<!-- VARIAVEIS -->
+[navbar-bootstrap]: https://getbootstrap.com.br/docs/4.1/components/navbar/
+[cards-bootstrap]: https://getbootstrap.com.br/docs/4.1/components/card/
+[formularios-bootstrap]: https://getbootstrap.com.br/docs/4.1/components/forms/
+[bordas-bootsrap]: https://getbootstrap.com.br/docs/4.1/utilities/borders/
+[carousel-bootstrap]: https://getbootstrap.com.br/docs/4.1/components/carousel/
+[documentacao-bootstrap]: https://getbootstrap.com.br/docs/4.1/getting-started/introduction/
+[o-que-e-bootstrap-alura]: https://www.alura.com.br/artigos/bootstrap?gclid=Cj0KCQiAweaNBhDEARIsAJ5hwbek8InX7djTWiCKZAiXHYKhyoFdYCmT0K-EsNqCtsg99BRPna5V16waAkbpEALw_wcB
+[o-que-e-bootstrap-hostinger]: https://www.hostinger.com.br/tutoriais/o-que-e-bootstrap
+[o-que-e-bootstrap-hostinger-yt]: https://www.youtube.com/watch?v=jsTJL6Da5wc&ab_channel=HostingerBrasil
+<!-- FIM DAS VARIAVEIS -->
 <p align="center">
     <img src="./assets/images/resilia_logo.png" alt="Logo da Resilia" width="200px">
 </p>
