@@ -6,7 +6,7 @@
 Bootstrap é um framework gratuito para desenvolvimento front-end que fornece estruturas de **CSS, HTML e JavaScript**. Com o Bootstrap é possível criar sites e aplicações responsivas de forma rápida e simples, pois ele permite que a interface do usuário de um site seja otimizado para qualquer tamanho de tela, desde os dispositivos móveis até as telas maiores.
 
 ### Como iniciar um projeto usando Bootstrap?
-1. A forma mais rápida é com o **BootstrapCDN**, primeiro você deve copiar e colar o arquivo de estilo `<link>` dentro da `<head>` do seu arquivo .html antes de todos os outros arquivos de estilo:
+1. A forma mais rápida é com o **BootstrapCDN**, primeiro você deve copiar e colar a seguinte tag `<link>` (com relação de folha de estilo) dentro da tag `<head>` do seu arquivo .html antes de todos os outros arquivos de estilo:
 
 ```html
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
