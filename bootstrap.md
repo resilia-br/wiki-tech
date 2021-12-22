@@ -20,7 +20,7 @@ Bootstrap é um framework gratuito para desenvolvimento front-end que fornece es
 ```
 
 ### Como funciona?
-Para estilizar os componentes é necessário incluir classes específicas que podem ser vistas na documentação do bootstrap, essas classes já possuem seus atributos e estilos prontos, mas podem ser customizáveis usando um CSS próprio.
+Para estilizar os componentes é necessário incluir classes específicas que podem ser vistas na documentação do Bootstrap, essas classes já possuem seus atributos e estilos prontos, mas podem ser customizáveis usando um CSS próprio.
 - Exemplo 1 - Para criar um `flex container` você precisa adicionar a classe `d-flex` ao seu componente, dessa forma:
 
 ```html
