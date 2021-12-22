@@ -45,15 +45,15 @@ Para estilizar os componentes é necessário incluir classes específicas que po
 
 ### O que mais é possível fazer? 
 O Bootstrap possui diversos componentes que podem ser utilizados em suas aplicações, com destaque para:
-- [**Navbar**](https://getbootstrap.com.br/docs/4.1/components/navbar/)
-- [**Cards**](https://getbootstrap.com.br/docs/4.1/components/card/)
-- [**Formulários**](https://getbootstrap.com.br/docs/4.1/components/forms/)
-- [**Bordas**](https://getbootstrap.com.br/docs/4.1/utilities/borders/)
-- [**Caroulsel**](https://getbootstrap.com.br/docs/4.1/components/carousel/)
-
+- [**Navbar**][navbar-bootstrap]
+- [**Cards**][cards-bootstrap]
+- [**Formulários**][formularios-bootstrap]
+- [**Bordas**][bordas-bootsrap]
+- [**Caroulsel**][carousel-bootstrap]
 
 ## Onde posso aprender mais sobre?
-- [[Documentação] **Bootstrap em português**](https://getbootstrap.com.br/docs/4.1/getting-started/introduction/)
-- [[Artigo] **Bootstrap - O que é, como e quando usar?**](https://www.alura.com.br/artigos/bootstrap?gclid=Cj0KCQiAweaNBhDEARIsAJ5hwbek8InX7djTWiCKZAiXHYKhyoFdYCmT0K-EsNqCtsg99BRPna5V16waAkbpEALw_wcB)
-- [[Artigo] **O Que é Bootstrap? Guia para Iniciantes**](https://www.hostinger.com.br/tutoriais/o-que-e-bootstrap)
-- [[Vídeo] **Bootstrap (Guia para Iniciantes)** ](https://www.youtube.com/watch?v=jsTJL6Da5wc&ab_channel=HostingerBrasil)
+- [[Documentação] **Bootstrap em português**][documentacao-bootstrap]
+- [[Artigo] **Bootstrap - O que é, como e quando usar?**][o-que-e-bootstrap-alura]
+- [[Artigo] **O Que é Bootstrap? Guia para Iniciantes**][o-que-e-bootstrap-hostinger]
+- [[Vídeo] **Bootstrap (Guia para Iniciantes)** ][o-que-e-bootstrap-hostinger-yt]
+
